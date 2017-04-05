@@ -22,3 +22,4 @@ SCILAB_FLAGS = '-noatomsautoload -nogui -nb ' #srikant
 SCIMAX_LOADER = '/home/scilab_test/CLOUD/scilab/scilab-scimax-2.1.4/loader.sce'
 UPLOADS_PATH = '/home/scilab_test/CLOUD/uploads'
 
+GITHUB_ACCESS_TOKEN = '<REPLACE_WITH_YOUR_GITHUB_TOKEN>'
